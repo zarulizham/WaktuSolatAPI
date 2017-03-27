@@ -8,7 +8,7 @@ You can use the API by using URL below:
 2. start: Start date for a range date (Y-m-d). Remove if want to return today's prayer times
 3. end: End date for a range date (Y-m-d)
 4. format: 12-hour or 24-hour time format
-5. pre: Display in <pre> tag (true) or display in json format (false)
+5. pre: Display in pre tag (true) or display in json format (false)
 
 Note: * is a mandatory parameter 
 
